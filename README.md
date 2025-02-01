@@ -9,3 +9,12 @@
 🤔 I am looking for help with exploring industry roles that align with my expertise, transitioning from academia to applied research, and leveraging my skills in computational methods to address real-world challenges in materials science and chemical engineering.
 
 💬 Ask me about catalysis, atomistic simulations, adsorption modeling, high-performance computing (HPC), Python-based computational workflows, and applying data science techniques to chemical research.
+
+### GitHub Metrics 
+
+> Languages activity for `public` repositories only.
+
+<div style="display: flex; align-items: center;">
+  <img width="395" alt="languages" src="/languages.svg">
+  <img width="395" alt="base" src="/base.svg">
+</div>
